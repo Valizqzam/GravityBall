@@ -1,3 +1,3 @@
 # GravityBall
 
-Gravity Ball is a THREE.js project done in Graphics class at LHU
+Gravity Ball is a THREE.js final project done for Graphics class at LHU
